@@ -7,8 +7,7 @@ The To-Do List App is a simple and user-friendly application designed to help us
 - **Add Tasks**: Users can enter new tasks using a dialog interface.
 - **View Tasks**: A scrollable list displays all the tasks.
 - **Delete Tasks**: Users can remove tasks after confirming the action.
-- **Mark Tasks as Completed**: Completed tasks can be visually marked to distinguish them from pending tasks.
-
+  
 ## Technologies Used
 - Android Studio
 - Java

@@ -19,4 +19,4 @@ To install and run this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https:https://github.com/burocofc/HexSoftware_Project_To-Do-List-App.git

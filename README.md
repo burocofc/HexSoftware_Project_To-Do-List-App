@@ -12,7 +12,6 @@ The To-Do List App is a simple and user-friendly application designed to help us
 - Android Studio
 - Java
 - XML for layouts
-- Local storage using SharedPreferences or SQLite
 
 ## Installation
 
